@@ -1,0 +1,10 @@
+Edit Version.h in Rainlexer folder
+
+Commit, don't push
+
+Create tag in the format:
+rainlexer-v2.25.0
+
+Push
+
+
